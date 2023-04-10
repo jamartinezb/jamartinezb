@@ -10,14 +10,13 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-jhonmb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonmb/)](https://www.linkedin.com/in/jhonmb/)
 [![Gmail Badge](https://img.shields.io/badge/-JhonMartinez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jamartinezbc@gmail.com)](mailto:jamartinezbc@gmail.com)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <h2> A little more about me...</h2>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif" width="350px" />
 
 
 ```javascript
 const jhon = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C#", ".NET"],
     askMeAbout: ["web dev", "games dev", "RPA", "RDA"],
     technologies: {
@@ -32,7 +31,7 @@ const jhon = {
         },
         devOps: ["RPA🤖", "RDA🤖"],
         databases: ["MySql", "Postgres"],
-        misc: ["Firebase", "selenium", "open-cv", "Uipath"]
+        misc: ["Firebase", "selenium", "open-cv", "Uipath", "google extensions"]
     }
 };
 ```
